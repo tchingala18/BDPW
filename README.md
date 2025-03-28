@@ -1,2 +1,2 @@
 # BDPW
-Trabalho em grupo do mestrado em Ensino da Informática
+Trabalho em grupo de Base de dados e Paginas Web do mestrado em Ensino da Informática
